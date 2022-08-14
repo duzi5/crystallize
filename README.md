@@ -1,5 +1,5 @@
 <h1>O que é o Crystallize</h1>
-<p>O Crystallize é um projeto que Visa a atende de maneira imediata a necessidade de se armazenar dados, tanto para profissionais de Data Science, como também para profissionais do desenvolvimento de softwares em geral que precisam de uma rápida abordagem para o salvamento de seus dados.</p>
+<p>O Crystallize é um projeto que visa a atende de maneira imediata a necessidade de se armazenar dados, tanto para profissionais de Data Science, como também para profissionais do desenvolvimento de softwares em geral que precisam de uma rápida abordagem para o salvamento de seus dados.</p>
 <h1>Nossa filosofia</h1>
 <p>Este projeto nasceu com o intuito de ser leve e eficaz sem a necessidade de instalação de bibliotecas adicionais. Todo o projeto é de rápida instalação e download sendo realmente uma alternativa muito prática para a essas questões de salvamento de dados no dia a dia dos desenvolvedores de softwares.<p>
 ____________________________
