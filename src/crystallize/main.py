@@ -32,7 +32,7 @@ class Model():
         nome_arquivo = f'{id}.json'
         for filename in files:
             if filename == nome_arquivo:
-                with open(self.nome_da_pasta, 'r') as arquiv:
+                with open(f'{self.nome_da_pasta}/{filename}', 'r') as arquiv:
                     x = json.load(arquiv)
                 return x    
             else: 
@@ -47,4 +47,3 @@ class Model():
                     return x
                 else:
                     return "Não há registros para esse filtro de busca."
-
